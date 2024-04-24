@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="adult">成人</string>
+    <string name="child">孩童</string>
+    <string name="student">學生</string>
+</resources>
