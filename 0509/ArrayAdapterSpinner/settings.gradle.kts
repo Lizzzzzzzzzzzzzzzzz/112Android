@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ArrayAdapterSpinner"
 include(":app")
+include(":app")
  
